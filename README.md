@@ -2,12 +2,12 @@
 
 # Oi! Sou Mateus Morais. 
 
-#### Tenho 17 anos.
+#### Tenho 18 anos.
 #### Sou estudante do 3ºAno do Curso Técnico Integrado em Informática do IFPB, campus Campina Grande.
 #### 
 #### Clique para saber mais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moraismateuss/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-morais-a7ba3525a/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-de-assis-33a7b6333/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?fs=1&tf=cm&source=mailto&to=mateusdeassismorais@gmail.com)
 
 ![Mateus Morais GitHub stats](https://github-readme-stats.vercel.app/api?username=MateussMorais&show_icons=true&theme=cobalt)
